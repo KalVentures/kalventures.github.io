@@ -1,0 +1,36 @@
+<svg
+    width="48"
+    height="48"
+    viewBox="0 0 48 48"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    className=""
+  >
+    <path
+      d="M14 12H30V38C30 39.1046 29.1046 40 28 40H16C14.8954 40 14 39.1046 14 38V12Z"
+      stroke="currentColor"
+      strokeWidth="2.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+    <path
+      d="M30 18H34C35.1046 18 36 18.8954 36 20V28C36 29.1046 35.1046 30 34 30H30"
+      stroke="currentColor"
+      strokeWidth="2.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+    <line
+      x1="14"
+      y1="40"
+      x2="30"
+      y2="40"
+      stroke="currentColor"
+      strokeWidth="2.5"
+      strokeLinecap="round"
+    />
+    <rect x="16" y="16" width="12" height="18" fill="currentColor" opacity="0.15" />
+    <ellipse cx="22" cy="10" rx="3" ry="2" fill="currentColor" opacity="0.2" />
+    <ellipse cx="18" cy="8" rx="2.5" ry="1.5" fill="currentColor" opacity="0.2" />
+    <ellipse cx="26" cy="9" rx="2" ry="1.5" fill="currentColor" opacity="0.2" />
+  </svg>
